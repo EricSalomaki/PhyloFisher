@@ -1,4 +1,4 @@
-## Installation
+# Installation
 
 ### via conda (Recommended)
 1. Install Anaconda:<br/>
